@@ -1,7 +1,7 @@
-<?php $company = "DAHL S AUTO WORKS INC";
-$phone = "(507) 864-7711";
-	$address1 = "207 N ELM ST";
-	$address2 = "RUSHFORD, MN 55971";
+<?php $company = "ALLIANCE BUILDING CONTRACTORS";
+$phone = "(262) 677-9662";
+	$address1 = "4466 COUNTY ROAD P";
+	$address2 = "JACKSON, WI 53037";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
@@ -73,7 +73,7 @@ $phone = "(507) 864-7711";
                     
                   </div>
                 </div>
-                <h3 class="u-text u-text-7">Contact us</h3>
+                <h3 class="u-text u-text-7">Hello</h3>
                 <h6 class="u-text u-text-8">Tell us about your project!</h6>
               </div>
             </div>
